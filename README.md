@@ -30,7 +30,7 @@ EN:
 - This project uses laravel/ui
 
 PT:
-- Esse projeto usa laravel/ui
+- Este projeto usa laravel/ui
 
 ## Files
 

@@ -10,7 +10,7 @@ PT: Um simples projeto de demonstração de como implementar a verificação por
 
 - [Features/Funcionalidades](#features)
 - [Requirements/Requisitos](#requirements)
-- [Files Used/Arquivos Utilizados](#Files)
+- [Files/Arquivos](#Files)
 
 ## Features
 
@@ -32,7 +32,7 @@ EN:
 PT:
 - Esse projeto usa laravel/ui
 
-## Files Used
+## Files
 
 EN:
 - In routes/web.php a line was added to make verify available to use.
